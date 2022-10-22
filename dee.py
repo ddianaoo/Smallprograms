@@ -10,7 +10,7 @@ class Mechanical:
             return
         super().__setattr__(key, value)
 
-        
+     ddvdddds   
 class Aragon:
     
     def __init__(self, date):
